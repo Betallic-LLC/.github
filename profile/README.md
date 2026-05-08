@@ -1,4 +1,4 @@
-## Betallic 👋
+# Betallic
 
 Betallic is a design driven brand focused on modern foil and latex balloons that help people celebrate the moments that matter most.
 
