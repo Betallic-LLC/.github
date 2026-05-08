@@ -1,6 +1,6 @@
 # Betallic
 
-Betallic is a design driven brand focused on modern foil and latex balloons that help people celebrate the moments that matter most.
+Betallic is a design driven brand focused on modern foil and latex balloons that help people celebrate the moments that matter most, shaped by thoughtful designs and a deep understanding of how celebrations come to life.
 
 <!--
 
